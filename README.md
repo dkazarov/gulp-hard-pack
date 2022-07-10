@@ -1,4 +1,4 @@
-# Gulp - сборка Gulp Hard Pack v 1.0.1
+# Gulp - сборка Gulp Hard Pack v 1.0.2
 
 > Используется Gulp 4
 
